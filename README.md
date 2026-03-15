@@ -47,15 +47,6 @@ x0 = np.array([2.0, 2.0])  # initial point
 python main.py
 ```
 
-## Test Functions
-
-**Function 1:**
-$$f_1(x_1, x_2) = 5x_1 + \frac{100}{x_1 x_2} + 2x_2$$
-> Domain restriction: x1 > 0 and x2 > 0
-
-**Function 2:**
-$$f_2(x_1, x_2) = (x_1 - 5)^2 + x_1 x_2 + (x_2 - 2)^2$$
-
 ## Output
 
 Running `main.py` produces:
